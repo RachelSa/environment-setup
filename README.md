@@ -1,6 +1,6 @@
 # Environment Setup
 
-Hi Impact Fellowship members,
+Hi Impact Fellows,
 
 On January 2 and 3, I'll be teaching an Intro to JavaScript and Web Deveopment Tools mini course for ya'll. There's going to be a lot to cover, so BEFORE class begins (January 2, 10am), please complete these two steps.
 
