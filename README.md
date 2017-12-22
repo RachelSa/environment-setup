@@ -6,7 +6,7 @@ On January 2 and 3, I'll be teaching an Intro to JavaScript and Web Deveopment T
 
 1. [Fill out this brief survey](https://goo.gl/forms/4gzPuazv8luAeSON2), so I can get a sense of the topics and tools you're already familiar with. 
 
-2. COMPLETE the below environment setup steps. These are the tools you'll need to run a JavaScript development environment. The resources I've listed are geared towards Mac, since that's what I use. If you don't have a Mac, this should still be a pretty easy process, but you may have to do a bit more Googling!
+2. COMPLETE the below environment setup steps. These are the tools you'll need to run a JavaScript development environment. The resources I've listed are geared towards Mac OSX, since that's what I use. If you don't have a Mac, this should still be a pretty easy process, but you may have to do a bit more Googling!
 
 ## Envrionment Setup
 
@@ -16,8 +16,7 @@ You'll be using the console quite a bit to debug, but won't often actually be wr
 
 The setup process should be pretty manageable. There are tons of developers using these tools and usually more than one way to install them, so if you get stuck, try Googling around; there are tons of resources available.
 
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment
-  ## Mac-Specific
+  ## Mac OSX-Specific
  1. **Xcode**
   You'll need Xcode on your Mac to install Node. Download XCode from the app store. (This is a big install; may take 15 or so minutes).
  2. **Homebrew**
