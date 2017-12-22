@@ -4,7 +4,7 @@ Hi Impact Fellowship members,
 
 On January 2 and 3, I'll be teaching an Intro to JavaScript and Web Deveopment Tools mini course for ya'll. There's going to be a lot to cover, so BEFORE class begins (January 2, 10am), please complete these two steps.
 
-1. Fill out this brief survey, so I can get a sense of the topics and tools you're already familiar with. 
+1. [Fill out this brief survey](https://goo.gl/forms/4gzPuazv8luAeSON2), so I can get a sense of the topics and tools you're already familiar with. 
 
 2. COMPLETE the below environment setup steps. These are the tools you'll need to run a JavaScript development environment. The resources I've listed are geared towards Mac, since that's what I use. If you don't have a Mac, this should still be a pretty easy process, but you may have to do a bit more Googling!
 
@@ -22,6 +22,8 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/develo
   You'll need Xcode on your Mac to install Node. Download XCode from the app store. (This is a big install; may take 15 or so minutes).
  2. **Homebrew**
     Homebrew helps you easily install from Terminal on your Mac. [Checkout their installation documentation](https://brew.sh/). 
+    
+  ## Not Mac-Specific  
  3. **Node**
   Node is a JavaScript runtime environment. It allows you to run JS code outside of the browser. 
   
@@ -43,4 +45,8 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/develo
   
  6. **Text editor**
  I use [Atom](https://atom.io/).
+ 
+ ## Install continued...
+ 
+ This is everything you'll need for JS basics and Development Tools, though you may need to think about installs related to backend JavaScript (MongoDB, for example) later in the course. 
      
