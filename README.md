@@ -10,7 +10,7 @@ On January 2 and 3, I'll be teaching an Intro to JavaScript and Web Deveopment T
 
 ## Envrionment Setup
 
-To start writing JavaScript, you don't need anything more than a browser. Press OPTION + COMMAND + J in your current window to open the JavaScript developer console. Run ```console.log("woot")``` or any other valid JavaScript (define a variable or write a function), and it'll run! 
+To start writing JavaScript, you don't need anything more than a browser. Press OPTION + COMMAND + J in a Chrome window to open the JavaScript developer console. Run ```console.log("woot")``` or any other valid JavaScript (define a variable or write a function), and it'll run! 
 
 You'll be using the console quite a bit to debug, but won't often actually be writing code in there. To build a full stack JavaScript application, you'll need a few tools locally installed. 
 
