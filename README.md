@@ -24,15 +24,15 @@ The setup process should be pretty manageable. There are tons of developers usin
     
   ## Not Mac-Specific  
  3. **Node**
-  Node is a JavaScript runtime environment. It allows you to run JS code outside of the browser. 
+    Node is a JavaScript runtime environment. It allows you to run JS code outside of the browser. 
   
-  If you've done steps one and two, then this [Node install tutorial should be super easy](http://blog.teamtreehouse.com/install-node-js-npm-mac). 
+    If you've done steps one and two, then this [Node install tutorial should be super easy](http://blog.teamtreehouse.com/install-node-js-npm-mac). 
   
-  Other tutorials, if that one doesn't strike your fancy:
+    Other tutorials, if that one doesn't strike your fancy:
   
-     - Mozilla - [Setting up a Node Development Environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
+     - Mozilla [Setting up a Node Development Environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
      
-     - YoEmber - [The Best Way to Install Node.js](http://yoember.com/nodejs/the-best-way-to-install-node-js/)
+     - YoEmber [The Best Way to Install Node.js](http://yoember.com/nodejs/the-best-way-to-install-node-js/)
      
  4. **Git and Github**
   Github is a version control system. It's an industry standard for managing source code. 
